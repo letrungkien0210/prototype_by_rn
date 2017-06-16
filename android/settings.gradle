@@ -1,0 +1,3 @@
+rootProject.name = 'sameview_mobile'
+
+include ':app'
